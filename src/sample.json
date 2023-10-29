@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "title": "aliens",
+        "director":"James cameron",
+        "year": "1986",
+        "rating": "8.6"
+    },
+    {
+        "id":"2",
+        "title": "Advenger",
+        "director":"tiago cameron",
+        "year": "1986",
+        "rating": "8.6"
+    },
+    {
+        "id":"3",
+        "title": "los comicos",
+        "director":"williams cameron",
+        "year": "1986",
+        "rating": "8.6"
+    }
+]
